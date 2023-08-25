@@ -2,6 +2,11 @@
 
 Front-end for Driven.t, an event management solution.
 
+## CHECK OUT THE PRESENTATION VIDEO FOR EACH SPRINT (PORTUGUESE)
+- SPRINT 1 https://www.loom.com/share/2c4a2229a96640bba1fff5a8aa0bb4b6
+- SPRINT 2 https://www.loom.com/share/11cdd9ee87a94db9baac2bd2d3c9eed2
+- SPRINT 3 https://www.youtube.com/watch?v=VisYffPdImg
+
 ## About
 
 Driven.t is a web browser application with which you can manage every single aspect of your event.
